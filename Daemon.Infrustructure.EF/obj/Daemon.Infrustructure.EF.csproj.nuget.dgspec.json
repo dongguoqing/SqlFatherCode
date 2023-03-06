@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.EF\\Daemon.Infrustructure.EF.csproj": {}
+    "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.EF\\Daemon.Infrustructure.EF.csproj": {}
   },
   "projects": {
-    "D:\\code\\SqlFatherCode\\Daemon.Common\\Daemon.Common.csproj": {
+    "D:\\code\\sqlFatherBack\\Daemon.Common\\Daemon.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\SqlFatherCode\\Daemon.Common\\Daemon.Common.csproj",
+        "projectUniqueName": "D:\\code\\sqlFatherBack\\Daemon.Common\\Daemon.Common.csproj",
         "projectName": "Daemon.Common",
-        "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Common\\Daemon.Common.csproj",
+        "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Common\\Daemon.Common.csproj",
         "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\SqlFatherCode\\Daemon.Common\\obj\\",
+        "outputPath": "D:\\code\\sqlFatherBack\\Daemon.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,14 +26,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj": {
-                "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj"
+              "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj": {
+                "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj"
               },
-              "D:\\code\\SqlFatherCode\\Daemon.Model\\Daemon.Model.csproj": {
-                "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Model\\Daemon.Model.csproj"
+              "D:\\code\\sqlFatherBack\\Daemon.Model\\Daemon.Model.csproj": {
+                "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Model\\Daemon.Model.csproj"
               },
-              "D:\\code\\SqlFatherCode\\Daemon.Service.Contract\\Daemon.Service.Contract.csproj": {
-                "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Service.Contract\\Daemon.Service.Contract.csproj"
+              "D:\\code\\sqlFatherBack\\Daemon.Service.Contract\\Daemon.Service.Contract.csproj": {
+                "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Service.Contract\\Daemon.Service.Contract.csproj"
               }
             }
           }
@@ -160,14 +160,14 @@
         }
       }
     },
-    "D:\\code\\SqlFatherCode\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj": {
+    "D:\\code\\sqlFatherBack\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\SqlFatherCode\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj",
+        "projectUniqueName": "D:\\code\\sqlFatherBack\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj",
         "projectName": "Daemon.Data.Infrastructure",
-        "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj",
+        "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\SqlFatherCode\\Daemon.Data.Infrastructure\\obj\\",
+        "outputPath": "D:\\code\\sqlFatherBack\\Daemon.Data.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -182,8 +182,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj": {
-                "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj"
+              "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj": {
+                "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj"
               }
             }
           }
@@ -230,14 +230,14 @@
         }
       }
     },
-    "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj": {
+    "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj",
+        "projectUniqueName": "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj",
         "projectName": "Daemon.Data.Substructure",
-        "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj",
+        "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj",
         "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\obj\\",
+        "outputPath": "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -282,14 +282,14 @@
         }
       }
     },
-    "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj": {
+    "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj",
+        "projectUniqueName": "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj",
         "projectName": "Daemon.Infrustructure.Contract",
-        "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj",
+        "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj",
         "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.Contract\\obj\\",
+        "outputPath": "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -304,8 +304,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\code\\SqlFatherCode\\Daemon.Model\\Daemon.Model.csproj": {
-                "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Model\\Daemon.Model.csproj"
+              "D:\\code\\sqlFatherBack\\Daemon.Model\\Daemon.Model.csproj": {
+                "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Model\\Daemon.Model.csproj"
               }
             }
           }
@@ -348,14 +348,14 @@
         }
       }
     },
-    "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.EF\\Daemon.Infrustructure.EF.csproj": {
+    "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.EF\\Daemon.Infrustructure.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.EF\\Daemon.Infrustructure.EF.csproj",
+        "projectUniqueName": "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.EF\\Daemon.Infrustructure.EF.csproj",
         "projectName": "Daemon.Infrustructure.EF",
-        "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.EF\\Daemon.Infrustructure.EF.csproj",
+        "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.EF\\Daemon.Infrustructure.EF.csproj",
         "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.EF\\obj\\",
+        "outputPath": "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.EF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -370,17 +370,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\code\\SqlFatherCode\\Daemon.Common\\Daemon.Common.csproj": {
-                "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Common\\Daemon.Common.csproj"
+              "D:\\code\\sqlFatherBack\\Daemon.Common\\Daemon.Common.csproj": {
+                "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Common\\Daemon.Common.csproj"
               },
-              "D:\\code\\SqlFatherCode\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj": {
-                "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj"
+              "D:\\code\\sqlFatherBack\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj": {
+                "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj"
               },
-              "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj": {
-                "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj"
+              "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj": {
+                "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj"
               },
-              "D:\\code\\SqlFatherCode\\Daemon.Model\\Daemon.Model.csproj": {
-                "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Model\\Daemon.Model.csproj"
+              "D:\\code\\sqlFatherBack\\Daemon.Model\\Daemon.Model.csproj": {
+                "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Model\\Daemon.Model.csproj"
               }
             }
           }
@@ -431,14 +431,14 @@
         }
       }
     },
-    "D:\\code\\SqlFatherCode\\Daemon.Model\\Daemon.Model.csproj": {
+    "D:\\code\\sqlFatherBack\\Daemon.Model\\Daemon.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\SqlFatherCode\\Daemon.Model\\Daemon.Model.csproj",
+        "projectUniqueName": "D:\\code\\sqlFatherBack\\Daemon.Model\\Daemon.Model.csproj",
         "projectName": "Daemon.Model",
-        "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Model\\Daemon.Model.csproj",
+        "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Model\\Daemon.Model.csproj",
         "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\SqlFatherCode\\Daemon.Model\\obj\\",
+        "outputPath": "D:\\code\\sqlFatherBack\\Daemon.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -453,8 +453,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj": {
-                "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj"
+              "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj": {
+                "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj"
               }
             }
           }
@@ -503,14 +503,14 @@
         }
       }
     },
-    "D:\\code\\SqlFatherCode\\Daemon.Service.Contract\\Daemon.Service.Contract.csproj": {
+    "D:\\code\\sqlFatherBack\\Daemon.Service.Contract\\Daemon.Service.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\SqlFatherCode\\Daemon.Service.Contract\\Daemon.Service.Contract.csproj",
+        "projectUniqueName": "D:\\code\\sqlFatherBack\\Daemon.Service.Contract\\Daemon.Service.Contract.csproj",
         "projectName": "Daemon.Service.Contract",
-        "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Service.Contract\\Daemon.Service.Contract.csproj",
+        "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Service.Contract\\Daemon.Service.Contract.csproj",
         "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\SqlFatherCode\\Daemon.Service.Contract\\obj\\",
+        "outputPath": "D:\\code\\sqlFatherBack\\Daemon.Service.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -525,8 +525,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\code\\SqlFatherCode\\Daemon.Model\\Daemon.Model.csproj": {
-                "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Model\\Daemon.Model.csproj"
+              "D:\\code\\sqlFatherBack\\Daemon.Model\\Daemon.Model.csproj": {
+                "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Model\\Daemon.Model.csproj"
               }
             }
           }

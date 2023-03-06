@@ -18,6 +18,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.FileProviders;
 using Daemon.Repository.Contract;
 using Daemon.Common.Exceptions;
+using Daemon.Data.Substructure.Helpers;
 
 namespace Daemon.Common.Middleware
 {
@@ -72,6 +73,49 @@ namespace Daemon.Common.Middleware
 
             services.AddSwagger();
             return services;
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        private static void BindForNotificationHelper()
+        {
+            NotificationHelper.Instance.OnEntitiesAdded = (entities) =>
+              {
+                  NotifyScheduleDataChanged(entities);
+              };
+
+            NotificationHelper.Instance.OnEntitiesChanged = (entities) =>
+            {
+                NotifyScheduleDataChanged(entities);
+            };
+
+            NotificationHelper.Instance.OnEntitiesDeleted = (entities) =>
+            {
+                NotifyScheduleDataChanged(entities);
+            };
+        }
+
+        private void NotifyScheduleDataChanged(Dictionary<Type, List<object>> entities)
+        {
+            var typeMap = new Dictionary<Type, ScheduleUpdateType>()
+            {
+                { typeof(Staff), ScheduleUpdateType.Technician },
+                { typeof(WorkOrder), ScheduleUpdateType.WorkOrder },
+                { typeof(WorkTemplate), ScheduleUpdateType.Service },
+                { typeof(EquipmentWorkItem), ScheduleUpdateType.Service },
+                { typeof(StaffRestriction), ScheduleUpdateType.Restriction },
+            };
+
+            if (entities.Count > 0)
+            {
+                var entityType = entities.Keys.ElementAt(0);
+
+                if (typeMap.TryGetValue(entityType, out var scheduleType))
+                {
+                    ScheduleHub.NotifyScheduleChanged(scheduleType, null, null);
+                }
+            }
         }
 
         /// <summary>
@@ -231,8 +275,8 @@ namespace Daemon.Common.Middleware
                 option.AddPolicy("qwer", policy =>
                 {
                     string corsUrl = Configuration.GetSection("CorsOrigins")?.Value;
-					string[] codeArray = corsUrl.Split(",");
-					policy.WithOrigins(codeArray).AllowAnyHeader().AllowAnyMethod().AllowCredentials();
+                    string[] codeArray = corsUrl.Split(",");
+                    policy.WithOrigins(codeArray).AllowAnyHeader().AllowAnyMethod().AllowCredentials();
                 });
             });
         }

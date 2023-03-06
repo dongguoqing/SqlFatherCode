@@ -6208,11 +6208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\SqlFatherCode\\Daemon.Model\\Daemon.Model.csproj",
+      "projectUniqueName": "D:\\code\\sqlFatherBack\\Daemon.Model\\Daemon.Model.csproj",
       "projectName": "Daemon.Model",
-      "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Model\\Daemon.Model.csproj",
+      "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Model\\Daemon.Model.csproj",
       "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\SqlFatherCode\\Daemon.Model\\obj\\",
+      "outputPath": "D:\\code\\sqlFatherBack\\Daemon.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6227,8 +6227,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj": {
-              "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj"
+            "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj": {
+              "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj"
             }
           }
         }

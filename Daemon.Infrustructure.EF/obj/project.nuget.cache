@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zYLkXS5FrbMXSoBKq+i2snHHCAbJuUxHpn0P3O6ObENIZgyV38HEMeKz4bVV6+EP76Dse2BYSTEFv2imN1YX3A==",
+  "dgSpecHash": "4bTKTMJ9bAYQ7TMDchuoIVRjsVvp9ua9xW4OLNzRnD4mFFaYp2GnC1TiLIfBysX+F6YSv2NHgAGcTP4RMAnH4g==",
   "success": true,
-  "projectFilePath": "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.EF\\Daemon.Infrustructure.EF.csproj",
+  "projectFilePath": "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.EF\\Daemon.Infrustructure.EF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\86138\\.nuget\\packages\\antlr4.runtime.standard\\4.9.3\\antlr4.runtime.standard.4.9.3.nupkg.sha512",
     "C:\\Users\\86138\\.nuget\\packages\\aspectcore.abstractions\\2.2.0\\aspectcore.abstractions.2.2.0.nupkg.sha512",

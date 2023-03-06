@@ -11027,11 +11027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\SqlFatherCode\\Daemon.Common\\Daemon.Common.csproj",
+      "projectUniqueName": "D:\\code\\sqlFatherBack\\Daemon.Common\\Daemon.Common.csproj",
       "projectName": "Daemon.Common",
-      "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Common\\Daemon.Common.csproj",
+      "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Common\\Daemon.Common.csproj",
       "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\SqlFatherCode\\Daemon.Common\\obj\\",
+      "outputPath": "D:\\code\\sqlFatherBack\\Daemon.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -11046,14 +11046,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj": {
-              "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj"
+            "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj": {
+              "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Infrustructure.Contract\\Daemon.Infrustructure.Contract.csproj"
             },
-            "D:\\code\\SqlFatherCode\\Daemon.Model\\Daemon.Model.csproj": {
-              "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Model\\Daemon.Model.csproj"
+            "D:\\code\\sqlFatherBack\\Daemon.Model\\Daemon.Model.csproj": {
+              "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Model\\Daemon.Model.csproj"
             },
-            "D:\\code\\SqlFatherCode\\Daemon.Service.Contract\\Daemon.Service.Contract.csproj": {
-              "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Service.Contract\\Daemon.Service.Contract.csproj"
+            "D:\\code\\sqlFatherBack\\Daemon.Service.Contract\\Daemon.Service.Contract.csproj": {
+              "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Service.Contract\\Daemon.Service.Contract.csproj"
             }
           }
         }

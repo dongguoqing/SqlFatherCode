@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 namespace Daemon.Model
 {
-    public class ApiDBContent : DbContext
+    public partial class ApiDBContent : DbContext
     {
 
         public ApiDBContent(DbContextOptions<ApiDBContent> options) : base(options)

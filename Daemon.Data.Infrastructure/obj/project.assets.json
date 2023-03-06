@@ -559,11 +559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\SqlFatherCode\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj",
+      "projectUniqueName": "D:\\code\\sqlFatherBack\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj",
       "projectName": "Daemon.Data.Infrastructure",
-      "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj",
+      "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\SqlFatherCode\\Daemon.Data.Infrastructure\\obj\\",
+      "outputPath": "D:\\code\\sqlFatherBack\\Daemon.Data.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -578,8 +578,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj": {
-              "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj"
+            "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj": {
+              "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj"
             }
           }
         }

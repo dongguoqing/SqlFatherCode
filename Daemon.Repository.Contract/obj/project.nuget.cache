@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1tb5UIRlfBRVXOiG62Yqpb8gcyT/RMJIDQy5l8BhmDc2lFPXSXCXvKoWz8B9x7HyrBWCnS4bv1BmntYnUCV+Sw==",
+  "dgSpecHash": "aMwt0c0ZW0xYWpIfZTIjW3ji6XTdeEVxK56jHj6MkBKP/MrePQmzfcpNG0EIGKIsceburKGb+Djhi2uuiCttHA==",
   "success": true,
-  "projectFilePath": "D:\\code\\SqlFatherCode\\Daemon.Repository.Contract\\Daemon.Repository.Contract.csproj",
+  "projectFilePath": "D:\\code\\sqlFatherBack\\Daemon.Repository.Contract\\Daemon.Repository.Contract.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\86138\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\86138\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",

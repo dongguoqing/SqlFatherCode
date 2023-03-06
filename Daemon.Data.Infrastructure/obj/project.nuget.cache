@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i2M6Z4L80YsotKC2IJKZrE+mhN5slAfpXiooCqX9oHL9W+NTPZVOu3JuLjXMclOHi5ceheSoFoL0jMg2yookOg==",
+  "dgSpecHash": "+dWgzdrhIyHeiuNT8t/Auxb3FK/SYrSx7gN7XiYsjRFJebnTNCFy6sD0qsq5RnKdRSrVrGkqfEqxwpc3kiT3Nw==",
   "success": true,
-  "projectFilePath": "D:\\code\\SqlFatherCode\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj",
+  "projectFilePath": "D:\\code\\sqlFatherBack\\Daemon.Data.Infrastructure\\Daemon.Data.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\86138\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.0\\microsoft.aspnetcore.http.2.2.0.nupkg.sha512",
     "C:\\Users\\86138\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

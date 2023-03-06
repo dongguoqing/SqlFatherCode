@@ -609,3 +609,15 @@ D:\code\SqlFatherCode\Daemon\obj\Debug\net5.0\Daemon.dll
 D:\code\SqlFatherCode\Daemon\obj\Debug\net5.0\ref\Daemon.dll
 D:\code\SqlFatherCode\Daemon\obj\Debug\net5.0\Daemon.pdb
 D:\code\SqlFatherCode\Daemon\obj\Debug\net5.0\Daemon.genruntimeconfig.cache
+D:\code\sqlFatherBack\Daemon\obj\Debug\net5.0\Daemon.csproj.AssemblyReference.cache
+D:\code\sqlFatherBack\Daemon\obj\Debug\net5.0\Daemon.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\sqlFatherBack\Daemon\obj\Debug\net5.0\Daemon.AssemblyInfoInputs.cache
+D:\code\sqlFatherBack\Daemon\obj\Debug\net5.0\Daemon.AssemblyInfo.cs
+D:\code\sqlFatherBack\Daemon\obj\Debug\net5.0\Daemon.csproj.CoreCompileInputs.cache
+D:\code\sqlFatherBack\Daemon\obj\Debug\net5.0\Daemon.MvcApplicationPartsAssemblyInfo.cs
+D:\code\sqlFatherBack\Daemon\obj\Debug\net5.0\Daemon.MvcApplicationPartsAssemblyInfo.cache
+D:\code\sqlFatherBack\Daemon\obj\Debug\net5.0\Daemon.RazorAssemblyInfo.cache
+D:\code\sqlFatherBack\Daemon\obj\Debug\net5.0\Daemon.RazorAssemblyInfo.cs
+D:\code\sqlFatherBack\Daemon\obj\Debug\net5.0\Daemon.dll
+D:\code\sqlFatherBack\Daemon\obj\Debug\net5.0\ref\Daemon.dll
+D:\code\sqlFatherBack\Daemon\obj\Debug\net5.0\Daemon.pdb

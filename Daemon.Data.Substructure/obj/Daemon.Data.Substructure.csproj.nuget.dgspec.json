@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj": {}
+    "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj": {}
   },
   "projects": {
-    "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj": {
+    "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj",
+        "projectUniqueName": "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj",
         "projectName": "Daemon.Data.Substructure",
-        "projectPath": "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj",
+        "projectPath": "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\Daemon.Data.Substructure.csproj",
         "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\SqlFatherCode\\Daemon.Data.Substructure\\obj\\",
+        "outputPath": "D:\\code\\sqlFatherBack\\Daemon.Data.Substructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -34,3 +34,15 @@ D:\code\SqlFatherCode\Daemon.Data.Substructure\obj\Debug\net5.0\Daemon.Data.Subs
 D:\code\SqlFatherCode\Daemon.Data.Substructure\obj\Debug\net5.0\Daemon.Data.Substructure.dll
 D:\code\SqlFatherCode\Daemon.Data.Substructure\obj\Debug\net5.0\ref\Daemon.Data.Substructure.dll
 D:\code\SqlFatherCode\Daemon.Data.Substructure\obj\Debug\net5.0\Daemon.Data.Substructure.pdb
+D:\code\sqlFatherBack\Daemon.Data.Substructure\bin\Debug\net5.0\Daemon.Data.Substructure.deps.json
+D:\code\sqlFatherBack\Daemon.Data.Substructure\bin\Debug\net5.0\Daemon.Data.Substructure.dll
+D:\code\sqlFatherBack\Daemon.Data.Substructure\bin\Debug\net5.0\ref\Daemon.Data.Substructure.dll
+D:\code\sqlFatherBack\Daemon.Data.Substructure\bin\Debug\net5.0\Daemon.Data.Substructure.pdb
+D:\code\sqlFatherBack\Daemon.Data.Substructure\obj\Debug\net5.0\Daemon.Data.Substructure.csproj.AssemblyReference.cache
+D:\code\sqlFatherBack\Daemon.Data.Substructure\obj\Debug\net5.0\Daemon.Data.Substructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\sqlFatherBack\Daemon.Data.Substructure\obj\Debug\net5.0\Daemon.Data.Substructure.AssemblyInfoInputs.cache
+D:\code\sqlFatherBack\Daemon.Data.Substructure\obj\Debug\net5.0\Daemon.Data.Substructure.AssemblyInfo.cs
+D:\code\sqlFatherBack\Daemon.Data.Substructure\obj\Debug\net5.0\Daemon.Data.Substructure.csproj.CoreCompileInputs.cache
+D:\code\sqlFatherBack\Daemon.Data.Substructure\obj\Debug\net5.0\Daemon.Data.Substructure.dll
+D:\code\sqlFatherBack\Daemon.Data.Substructure\obj\Debug\net5.0\ref\Daemon.Data.Substructure.dll
+D:\code\sqlFatherBack\Daemon.Data.Substructure\obj\Debug\net5.0\Daemon.Data.Substructure.pdb
