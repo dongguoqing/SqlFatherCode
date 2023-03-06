@@ -1,0 +1,10 @@
+﻿{
+  "modules": [
+    {
+      "type": "Daemon.Repository.EF.RepositoryModule, Daemon.Repository.EF"
+    },
+    {
+      "type": "Daemon.Service.ServiceModule, Daemon.Service"
+    },
+  ]
+}

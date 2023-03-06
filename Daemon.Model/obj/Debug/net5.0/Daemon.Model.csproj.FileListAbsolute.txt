@@ -1,0 +1,66 @@
+c:\dgqtest\New folder\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.deps.json
+c:\dgqtest\New folder\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Model\bin\Debug\net5.0\ref\Daemon.Model.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.pdb
+c:\dgqtest\New folder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.csproj.AssemblyReference.cache
+c:\dgqtest\New folder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.GeneratedMSBuildEditorConfig.editorconfig
+c:\dgqtest\New folder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.AssemblyInfoInputs.cache
+c:\dgqtest\New folder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.AssemblyInfo.cs
+c:\dgqtest\New folder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.csproj.CoreCompileInputs.cache
+c:\dgqtest\New folder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Model\obj\Debug\net5.0\ref\Daemon.Model.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.deps.json
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.runtimeconfig.json
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.runtimeconfig.dev.json
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\bin\Debug\net5.0\ref\Daemon.Model.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Data.Substructure.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Data.Substructure.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.csproj.AssemblyReference.cache
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.AssemblyInfoInputs.cache
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.AssemblyInfo.cs
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.csproj.CoreCompileInputs.cache
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.csproj.CopyComplete
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\obj\Debug\net5.0\ref\Daemon.Model.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.genruntimeconfig.cache
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.deps.json
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.runtimeconfig.json
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.runtimeconfig.dev.json
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\bin\Debug\net5.0\ref\Daemon.Model.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Data.Substructure.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\bin\Debug\net5.0\Daemon.Data.Substructure.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.csproj.AssemblyReference.cache
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.AssemblyInfoInputs.cache
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.AssemblyInfo.cs
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.csproj.CoreCompileInputs.cache
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.csproj.CopyComplete
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\obj\Debug\net5.0\ref\Daemon.Model.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.genruntimeconfig.cache
+D:\code\SqlFatherCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.deps.json
+D:\code\SqlFatherCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.runtimeconfig.json
+D:\code\SqlFatherCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.runtimeconfig.dev.json
+D:\code\SqlFatherCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.dll
+D:\code\SqlFatherCode\Daemon.Model\bin\Debug\net5.0\ref\Daemon.Model.dll
+D:\code\SqlFatherCode\Daemon.Model\bin\Debug\net5.0\Daemon.Model.pdb
+D:\code\SqlFatherCode\Daemon.Model\bin\Debug\net5.0\Daemon.Data.Substructure.dll
+D:\code\SqlFatherCode\Daemon.Model\bin\Debug\net5.0\Daemon.Data.Substructure.pdb
+D:\code\SqlFatherCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.csproj.AssemblyReference.cache
+D:\code\SqlFatherCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\SqlFatherCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.AssemblyInfoInputs.cache
+D:\code\SqlFatherCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.AssemblyInfo.cs
+D:\code\SqlFatherCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.csproj.CoreCompileInputs.cache
+D:\code\SqlFatherCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.csproj.CopyComplete
+D:\code\SqlFatherCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.dll
+D:\code\SqlFatherCode\Daemon.Model\obj\Debug\net5.0\ref\Daemon.Model.dll
+D:\code\SqlFatherCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.pdb
+D:\code\SqlFatherCode\Daemon.Model\obj\Debug\net5.0\Daemon.Model.genruntimeconfig.cache

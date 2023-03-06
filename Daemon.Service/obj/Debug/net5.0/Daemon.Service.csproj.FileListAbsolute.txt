@@ -1,0 +1,112 @@
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.deps.json
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\ref\Daemon.Service.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.pdb
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Common.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.Contract.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.EF.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Model.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Repository.Contract.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.Contract.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Model.pdb
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Repository.Contract.pdb
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.Contract.pdb
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.EF.pdb
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Common.pdb
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.Contract.pdb
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.csproj.AssemblyReference.cache
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.GeneratedMSBuildEditorConfig.editorconfig
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.AssemblyInfoInputs.cache
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.AssemblyInfo.cs
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.csproj.CoreCompileInputs.cache
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.csproj.CopyComplete
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\obj\Debug\net5.0\ref\Daemon.Service.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.csproj.AssemblyReference.cache
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.AssemblyInfoInputs.cache
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.AssemblyInfo.cs
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.csproj.CoreCompileInputs.cache
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.deps.json
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\ref\Daemon.Service.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Common.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Data.Infrastructure.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Data.Substructure.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.Contract.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.EF.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Model.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Repository.Contract.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.Contract.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Model.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Repository.Contract.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.Contract.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.EF.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Common.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Data.Infrastructure.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Data.Substructure.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.Contract.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.csproj.CopyComplete
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\obj\Debug\net5.0\ref\Daemon.Service.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.deps.json
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\ref\Daemon.Service.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Common.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Data.Infrastructure.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Data.Substructure.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.Contract.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.EF.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Model.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Repository.Contract.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.Contract.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Model.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Repository.Contract.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.Contract.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.EF.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Common.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Data.Infrastructure.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Data.Substructure.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.Contract.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.csproj.AssemblyReference.cache
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.AssemblyInfoInputs.cache
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.AssemblyInfo.cs
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.csproj.CoreCompileInputs.cache
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.csproj.CopyComplete
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\obj\Debug\net5.0\ref\Daemon.Service.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.pdb
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.deps.json
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.dll
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\ref\Daemon.Service.dll
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.pdb
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Common.dll
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Data.Infrastructure.dll
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Data.Substructure.dll
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.Contract.dll
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.EF.dll
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Model.dll
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Repository.Contract.dll
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.Contract.dll
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Model.pdb
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Repository.Contract.pdb
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Service.Contract.pdb
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.EF.pdb
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Common.pdb
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Data.Infrastructure.pdb
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Data.Substructure.pdb
+D:\code\SqlFatherCode\Daemon.Service\bin\Debug\net5.0\Daemon.Infrustructure.Contract.pdb
+D:\code\SqlFatherCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.csproj.AssemblyReference.cache
+D:\code\SqlFatherCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\SqlFatherCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.AssemblyInfoInputs.cache
+D:\code\SqlFatherCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.AssemblyInfo.cs
+D:\code\SqlFatherCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.csproj.CoreCompileInputs.cache
+D:\code\SqlFatherCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.csproj.CopyComplete
+D:\code\SqlFatherCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.dll
+D:\code\SqlFatherCode\Daemon.Service\obj\Debug\net5.0\ref\Daemon.Service.dll
+D:\code\SqlFatherCode\Daemon.Service\obj\Debug\net5.0\Daemon.Service.pdb

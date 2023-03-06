@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AspectCore.Extensions.Autofac" Version="2.2.0" />
+    <PackageReference Include="Autofac" Version="6.3.0" />
+    <PackageReference Include="Autofac.Configuration" Version="6.0.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0" />
+    <PackageReference Include="csrediscore" Version="3.6.9" />
+    <PackageReference Include="Faker.Net" Version="2.0.154" />
+    <PackageReference Include="Fare" Version="2.1.1" />
+    <PackageReference Include="gudusoft.gsqlparser" Version="3.3.0.4" />
+    <PackageReference Include="Identityserver4" Version="4.1.2" />
+    <PackageReference Include="JWT" Version="9.0.3" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.WebHost" Version="5.2.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.17" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Owin" Version="5.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Server.Kestrel" Version="2.2.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Logging" Version="6.25.0" />
+    <PackageReference Include="Microsoft.SqlServer.Management.SqlParser" Version="160.22524.0" />
+    <PackageReference Include="MySqlParser" Version="1.0.0" />
+    <PackageReference Include="NPOI" Version="2.6.0" />
+    <PackageReference Include="Scriban" Version="5.5.2" />
+    <PackageReference Include="System.Drawing.Common" Version="6.0.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.25.0" />
+    <PackageReference Include="System.Runtime" Version="4.3.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Daemon.Model\Daemon.Model.csproj" />
+    <ProjectReference Include="..\Daemon.Service.Contract\Daemon.Service.Contract.csproj" />
+    <ProjectReference Include="..\Daemon.Infrustructure.Contract\Daemon.Infrustructure.Contract.csproj" />
+  </ItemGroup>
+</Project>

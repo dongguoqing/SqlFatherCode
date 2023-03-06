@@ -1,0 +1,63 @@
+c:\dgqtest\New folder\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Infrustructure.Contract.deps.json
+c:\dgqtest\New folder\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Infrustructure.Contract.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\ref\Daemon.Infrustructure.Contract.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Infrustructure.Contract.pdb
+c:\dgqtest\New folder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.csproj.AssemblyReference.cache
+c:\dgqtest\New folder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.GeneratedMSBuildEditorConfig.editorconfig
+c:\dgqtest\New folder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.AssemblyInfoInputs.cache
+c:\dgqtest\New folder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.AssemblyInfo.cs
+c:\dgqtest\New folder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.csproj.CoreCompileInputs.cache
+c:\dgqtest\New folder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\ref\Daemon.Infrustructure.Contract.dll
+c:\dgqtest\New folder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Infrustructure.Contract.deps.json
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Infrustructure.Contract.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\ref\Daemon.Infrustructure.Contract.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Infrustructure.Contract.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Data.Substructure.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Model.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Model.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Data.Substructure.pdb
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.csproj.AssemblyReference.cache
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.AssemblyInfoInputs.cache
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.AssemblyInfo.cs
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.csproj.CoreCompileInputs.cache
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.csproj.CopyComplete
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\ref\Daemon.Infrustructure.Contract.dll
+C:\dgqtest\Newfolder\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Infrustructure.Contract.deps.json
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Infrustructure.Contract.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\ref\Daemon.Infrustructure.Contract.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Infrustructure.Contract.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Data.Substructure.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Model.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Model.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Data.Substructure.pdb
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.csproj.AssemblyReference.cache
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.AssemblyInfoInputs.cache
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.AssemblyInfo.cs
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.csproj.CoreCompileInputs.cache
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.csproj.CopyComplete
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\ref\Daemon.Infrustructure.Contract.dll
+D:\code\SqlFatherCode\DaemonCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.pdb
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Infrustructure.Contract.deps.json
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Infrustructure.Contract.dll
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\ref\Daemon.Infrustructure.Contract.dll
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Infrustructure.Contract.pdb
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Data.Substructure.dll
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Model.dll
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Model.pdb
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\bin\Debug\net5.0\Daemon.Data.Substructure.pdb
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.csproj.AssemblyReference.cache
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.AssemblyInfoInputs.cache
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.AssemblyInfo.cs
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.csproj.CoreCompileInputs.cache
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.csproj.CopyComplete
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.dll
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\ref\Daemon.Infrustructure.Contract.dll
+D:\code\SqlFatherCode\Daemon.Infrustructure.Contract\obj\Debug\net5.0\Daemon.Infrustructure.Contract.pdb
