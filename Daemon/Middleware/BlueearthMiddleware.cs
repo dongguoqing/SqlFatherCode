@@ -78,45 +78,45 @@ namespace Daemon.Common.Middleware
         /// <summary>
         /// 
         /// </summary>
-        private static void BindForNotificationHelper()
-        {
-            NotificationHelper.Instance.OnEntitiesAdded = (entities) =>
-              {
-                  NotifyScheduleDataChanged(entities);
-              };
+        // private static void BindForNotificationHelper()
+        // {
+        //     NotificationHelper.Instance.OnEntitiesAdded = (entities) =>
+        //       {
+        //           NotifyScheduleDataChanged(entities);
+        //       };
 
-            NotificationHelper.Instance.OnEntitiesChanged = (entities) =>
-            {
-                NotifyScheduleDataChanged(entities);
-            };
+        //     NotificationHelper.Instance.OnEntitiesChanged = (entities) =>
+        //     {
+        //         NotifyScheduleDataChanged(entities);
+        //     };
 
-            NotificationHelper.Instance.OnEntitiesDeleted = (entities) =>
-            {
-                NotifyScheduleDataChanged(entities);
-            };
-        }
+        //     NotificationHelper.Instance.OnEntitiesDeleted = (entities) =>
+        //     {
+        //         NotifyScheduleDataChanged(entities);
+        //     };
+        // }
 
-        private void NotifyScheduleDataChanged(Dictionary<Type, List<object>> entities)
-        {
-            var typeMap = new Dictionary<Type, ScheduleUpdateType>()
-            {
-                { typeof(Staff), ScheduleUpdateType.Technician },
-                { typeof(WorkOrder), ScheduleUpdateType.WorkOrder },
-                { typeof(WorkTemplate), ScheduleUpdateType.Service },
-                { typeof(EquipmentWorkItem), ScheduleUpdateType.Service },
-                { typeof(StaffRestriction), ScheduleUpdateType.Restriction },
-            };
+        // private void NotifyScheduleDataChanged(Dictionary<Type, List<object>> entities)
+        // {
+        //     var typeMap = new Dictionary<Type, ScheduleUpdateType>()
+        //     {
+        //         { typeof(Staff), ScheduleUpdateType.Technician },
+        //         { typeof(WorkOrder), ScheduleUpdateType.WorkOrder },
+        //         { typeof(WorkTemplate), ScheduleUpdateType.Service },
+        //         { typeof(EquipmentWorkItem), ScheduleUpdateType.Service },
+        //         { typeof(StaffRestriction), ScheduleUpdateType.Restriction },
+        //     };
 
-            if (entities.Count > 0)
-            {
-                var entityType = entities.Keys.ElementAt(0);
+        //     if (entities.Count > 0)
+        //     {
+        //         var entityType = entities.Keys.ElementAt(0);
 
-                if (typeMap.TryGetValue(entityType, out var scheduleType))
-                {
-                    ScheduleHub.NotifyScheduleChanged(scheduleType, null, null);
-                }
-            }
-        }
+        //         if (typeMap.TryGetValue(entityType, out var scheduleType))
+        //         {
+        //             ScheduleHub.NotifyScheduleChanged(scheduleType, null, null);
+        //         }
+        //     }
+        // }
 
         /// <summary>
         /// 
