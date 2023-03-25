@@ -19,6 +19,8 @@ using Microsoft.Extensions.FileProviders;
 using Daemon.Repository.Contract;
 using Daemon.Common.Exceptions;
 using Daemon.Data.Substructure.Helpers;
+using Daemon.Hubs;
+using Newtonsoft.Json;
 
 namespace Daemon.Common.Middleware
 {
@@ -278,6 +280,15 @@ namespace Daemon.Common.Middleware
                     string[] codeArray = corsUrl.Split(",");
                     policy.WithOrigins(codeArray).AllowAnyHeader().AllowAnyMethod().AllowCredentials();
                 });
+            });
+        }
+
+        public static void AddHubConfiguration(this IApplicationBuilder app)
+        {
+            // Add SignalR middleware
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapHub<BlogHub>("/signalr");
             });
         }
 

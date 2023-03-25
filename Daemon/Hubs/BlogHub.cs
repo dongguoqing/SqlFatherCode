@@ -2,15 +2,14 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNet.SignalR;
+using Microsoft.AspNetCore.SignalR;
 namespace Daemon.Hubs
 {
     public class BlogHub : Hub
     {
-        public static void NotifyScheduleChanged()
+        public async Task NotifyScheduleChanged(string message)
         {
-            var hub = GlobalHost.ConnectionManager.GetHubContext<BlogHub>();
-            hub.Clients.All.update(new { UpdateType = scheduleUpdateType.ToString(), StartDate = startDate, EndDate = endDate });
+            await Clients.All.SendAsync("ReceiveMessage", message);
         }
     }
 }

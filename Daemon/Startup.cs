@@ -70,7 +70,7 @@ namespace Daemon
 
             app.UseSwaggerUI();
 
-            app.SetFileExtensionContentType();
+           // app.SetFileExtensionContentType();
 
             app.UseHttpsRedirection();
 
